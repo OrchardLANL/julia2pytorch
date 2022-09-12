@@ -13,7 +13,7 @@ julia2pytorch is provided under a BSD style license. See LICENSE.md file for the
 
 This package is part of the Orchard suite, known internally as C20086 Orchard.
 
-Author
+Authors
 ------
 
-Daniel O'Malley, <omalled@lanl.gov>
+Daniel O'Malley (omalled@lanl.gov), Javier Estrada Santos, Nick Lubbers
